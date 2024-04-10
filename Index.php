@@ -6,7 +6,7 @@
     <title>Mi Página Web</title>
     <link href="Estilos.css" rel="stylesheet"/><!-- Vinculación a un archivo CSS externo -->
     <!-- Agrega la API de Google Maps -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA7HlzsL28YhtEeakfoab6V7OV0j_CZr2s&callback=inicializarMapa" async defer></script>
+    <script src="" async defer></script>
 </head>
 <body>
 
