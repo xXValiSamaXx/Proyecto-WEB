@@ -1,6 +1,7 @@
-# 📘 Agenda para Estudiantes - Instituto Tecnológico de Chetumal (ITCH)
-
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGbHB3Zu4cT4-3dT2oQat3CcKCXtwJgkutew&s) <!-- Reemplaza este link con una imagen/banner de tu aplicación -->
+![image](https://github.com/user-attachments/assets/46e233b0-de2d-42da-9905-be49d6b7e6a4)# 📘 Agenda para Estudiantes - Instituto Tecnológico de Chetumal (ITCH)
+<p align="center">
+  <img src="https://lh6.googleusercontent.com/proxy/AdQXVys8mQSffv4nk7zERZlVpZ8m9XFcQ0Tp7RvlY2-L2227NW2ZsCMbstiJF8x8Qdu2a0xXEz_Tk7rx2CD1lkbj9Zq5HE_PhkWDBJh6LsWb_XstcMl8Qw" alt="Banner">
+</p>
 
 Este proyecto es una aplicación diseñada específicamente para facilitar la gestión académica de los estudiantes del Instituto Tecnológico de Chetumal. Su propósito principal es ayudar a los estudiantes a organizar sus actividades académicas y proporcionar a los administradores las herramientas necesarias para gestionar la información académica de manera eficiente.
 
