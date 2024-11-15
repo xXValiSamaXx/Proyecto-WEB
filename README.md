@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/46e233b0-de2d-42da-9905-be49d6b7e6a4)# 📘 Agenda para Estudiantes - Instituto Tecnológico de Chetumal (ITCH)
+# 📘 Agenda para Estudiantes - Instituto Tecnológico de Chetumal (ITCH)
 <p align="center">
   <img src="https://lh6.googleusercontent.com/proxy/AdQXVys8mQSffv4nk7zERZlVpZ8m9XFcQ0Tp7RvlY2-L2227NW2ZsCMbstiJF8x8Qdu2a0xXEz_Tk7rx2CD1lkbj9Zq5HE_PhkWDBJh6LsWb_XstcMl8Qw" alt="Banner">
 </p>
